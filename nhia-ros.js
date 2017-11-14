@@ -101,5 +101,7 @@ window.onload = function () {
     $("#bt_21").css("background-color", "#F5F5F5");
     $("#bt_23").css("background-color", "#F5F5F5");
     $( "#bt_26" ).removeClass( "col-xs-6" ).addClass( "col-xs-8" );
-    $( "#bt_27" ).removeClass( "col-xs-6" ).addClass( "col-xs-4" );
+    $("#bt_27").removeClass("col-xs-6").addClass("col-xs-4");
+    $("#bt_28").removeClass("col-xs-6").addClass("col-xs-8");
+    $("#bt_29").removeClass("col-xs-6").addClass("col-xs-4");
 };
