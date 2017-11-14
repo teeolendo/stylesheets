@@ -1,0 +1,116 @@
+.fieldContainer{
+    padding-bottom: 10px;
+}
+.qwc_body {
+    background-color: #FFFFFF;
+}
+
+.qwc_header {
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+#formWrapper
+{
+    background-color: #E6E6E6; 
+}
+
+label.qwformlabel
+{
+    color: #01312B ;
+    padding-left: 10px;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+} 
+
+.qwc_content .col-xs-6, .qwc_content .col-xs-12{
+    padding: 10px;
+}
+
+.formSubmit{
+    padding-left:15px;
+}
+
+h1{
+    padding-left:15px;
+    color: #3fbfe0;
+}
+
+label.error {
+    font-size: 9pt;
+}
+input[data-fieldtype],
+select[data-fieldtype],
+textarea[data-fieldtype]{
+    background-color:white;
+    display:block;
+    height: 30px;
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+div[data-fieldtype] input{
+    background-color:white;
+    height: 30px;
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+#divAdministrators{
+    background-color:white;
+}
+
+a
+{
+    cursor:pointer;
+}
+.ms-formtable-custom{
+    min-height:150px;
+}
+
+div[class^="col-xs"]
+{
+    margin-bottom:10px;
+}
+
+h3, h1, h2, h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px 0px;
+}
+
+/*.col-xs-12{
+    padding-bottom:10px;
+}
+
+.col-xs-6{
+    padding-bottom:10px; 
+}
+
+
+/*.First-Name-lbl {
+    display: inline-block;
+    width: 6em;
+    margin-right: .5em;
+    padding-top: 0em;
+    text-align:left;
+}
+
+.First-Name-fld {
+    display: inline-block;
+    width: 6em;
+    position: relative;
+    top: 1em;
+}*/
