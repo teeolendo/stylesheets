@@ -91,6 +91,7 @@ window.onload = function () {
     $( "#bt_3" ).removeClass( "col-xs-6" ).addClass( "col-xs-12" );
     $( "#bt_5" ).removeClass( "col-xs-6" ).addClass( "col-xs-4" );
     $("#bt_6").removeClass("col-xs-6").addClass("col-xs-4");
+    $("#bt_7").removeClass("col-xs-6").addClass("col-xs-4");
     $("#bt_8").removeClass("col-xs-6").addClass("col-xs-4");
     $( "#bt_9" ).removeClass( "col-xs-6" ).addClass( "col-xs-4" );
     $( "#bt_10" ).removeClass( "col-xs-6" ).addClass( "col-xs-4" );
