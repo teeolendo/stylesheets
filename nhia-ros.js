@@ -96,9 +96,12 @@ window.onload = function () {
     $( "#bt_9" ).removeClass( "col-xs-6" ).addClass( "col-xs-4" );
     $( "#bt_10" ).removeClass( "col-xs-6" ).addClass( "col-xs-4" );
     $( "#bt_12" ).removeClass( "col-xs-6" ).addClass( "col-xs-12" );
-    $( "#bt_17" ).css("background-color", "#F5F5F5");
+    $("#bt_17").css("background-color", "#F5F5F5");
+    $("#bt_18").css("padding-top", "20px");
     $( "#bt_19" ).css("background-color", "#F5F5F5");
+    $("#bt_20").css("padding-top", "20px");
     $("#bt_21").css("background-color", "#F5F5F5");
+    $("#bt_22").css("padding-top", "20px");
     $("#bt_23").css("background-color", "#F5F5F5");
     $( "#bt_26" ).removeClass( "col-xs-6" ).addClass( "col-xs-8" );
     $("#bt_27").removeClass("col-xs-6").addClass("col-xs-4");
