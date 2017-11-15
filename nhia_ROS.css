@@ -8,6 +8,14 @@
 .qwc_header {
 }
 
+.repeater-group td:last-child{
+    width: 100% !important;
+}
+
+.repeater-group [data-fieldtype="textbox"] {
+    width: 100% !important;
+}
+
 input[type=radio], input[type=checkbox] {
     margin: 4px 7px 0 !important;
     margin-top: 1px;
