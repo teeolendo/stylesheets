@@ -87,7 +87,8 @@ QWC_Custom.App.prototype = {
 
 window.onload = function () {
 //    new QWC_Custom.App();
-    $( "#bt_2" ).removeClass( "col-xs-6" ).addClass( "col-xs-12" );
+    $(".qwformlabel").css("display", "none");
+    $("#bt_2").removeClass("col-xs-6").addClass("col-xs-12");
     $( "#bt_3" ).removeClass( "col-xs-6" ).addClass( "col-xs-12" );
     $( "#bt_5" ).removeClass( "col-xs-6" ).addClass( "col-xs-4" );
     $("#bt_6").removeClass("col-xs-6").addClass("col-xs-4");
