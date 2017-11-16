@@ -5,7 +5,27 @@
     background-color: #FFFFFF;
 }
 
+.labelControl-label {
+    font-weight: bold;
+}
+
+.removeButton {
+    width: 30px !important 
+}
+
 .qwc_header {
+}
+
+.repeaterContainer .addAnotherButton {
+    font-size: 11px !important;
+    width: 40% !important;
+    padding: 0.7em 1.25em !important;
+    background-color: #3fbfe0 !important;
+    border-color: #26B6DC !important;
+    color: #fff !important;
+    margin-top: 20px;
+    font-size: 0.875em !important;
+    border-radius: 4px !important;
 }
 
 .repeater-group td:last-child{
@@ -20,6 +40,7 @@ input[type=radio], input[type=checkbox] {
     margin: 4px 7px 0 !important;
     margin-top: 1px;
     line-height: normal;
+    height: 12px !important;
 }
 
 .alignleft {
