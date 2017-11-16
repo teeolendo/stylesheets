@@ -27,6 +27,7 @@ h3 {
     margin-top: 20px;
     font-size: 1em !important;
     border-radius: 7px !important;
+    height: 40px;
 }
 
 .repeater-group td:last-child{
